@@ -9,8 +9,3 @@ hello
 hello
 added...
 
-hello
-
-hello
-
-hello
